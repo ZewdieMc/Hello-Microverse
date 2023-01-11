@@ -98,7 +98,7 @@ After you're finished please remove all the comments and instructions!
 
 > The following are the key features of the application.
 
-- **Displays only <em>Hello Microverse in blue violet color.</em>**
+- **Displays only <em>Hello Microverse</em> in blue violet color.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -252,7 +252,7 @@ I would like to thank Microverse!
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./MIT) licensed.
+This project is [MIT](./MIT.md) licensed.
 
 _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
